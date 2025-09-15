@@ -1,17 +1,25 @@
-Excited to share my new HR Dashboard Project created using Excel!
+🚀 Excited to share my new HR Dashboard Project created using Microsoft Excel!
 
-في المشروع ده ركزت على تحليل بيانات الموظفين بشكل مبسط وعملي علشان نوصل لرؤية أوضح تساعد الإدارة في اتخاذ القرارات.
+In this project, I focused on analyzing employee data in a simple and practical way to provide clearer insights that support management in making better data-driven decisions.
 
-📊 أهم التحليلات اللي قدمها الـ Dashboard:
- • توزيع المهارات (Communication, Design, Excel, Management, Python).
- • توزيع الموظفين حسب النوع (Male/Female).
- • تصنيف الأعمار والـ Age Range.
- • الرواتب حسب المسميات الوظيفية.
- • توزيع الموظفين على الأقاليم ومواقع العمل (Head office, Branch, Remote).
- • مقارنة الأداء (Performance Rating).
- • حالة التوظيف (Full-time, Part-time, Contract).
+📊 Key Insights from the Dashboard:
 
-💡 الهدف الأساسي:
-تقديم صورة شاملة عن الموارد البشرية في الشركة، وتبسيط عملية اتخاذ القرارات المبنية على البيانات.
+Skills distribution (Communication, Design, Excel, Management, Python).
 
-🔧 Tools Used: Microsoft Excel (PivotTables, Charts, Slicers, Conditional Formatting)
+Employee distribution by gender (Male/Female).
+
+Age classification and Age Ranges.
+
+Salaries by job titles.
+
+Employee distribution across regions and work locations (Head Office, Branch, Remote).
+
+Performance comparison (Performance Rating).
+
+Employment status (Full-time, Part-time, Contract).
+
+💡 Main Objective:
+To provide a comprehensive overview of the company’s human resources and simplify the decision-making process based on data.
+
+🔧 Tools Used:
+Microsoft Excel (PivotTables, Charts, Slicers, Conditional Formatting).
